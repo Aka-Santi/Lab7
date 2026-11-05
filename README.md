@@ -5,8 +5,8 @@ Lab 7 for CDS 230. Here we learn and experiment with two new datasets and attemp
 ## Datasets Used
 PCA:
 
-- 
--
+- https://archive.ics.uci.edu/dataset/162/forest+fires
+- https://archive.ics.uci.edu/dataset/368/facebook+metrics
 
 SVM:
 
