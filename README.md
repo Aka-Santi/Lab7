@@ -10,5 +10,5 @@ PCA:
 
 SVM:
 
-- https://www.kaggle.com/datasets/dreaddevelopment/raptor-knee-widedense
-- https://www.kaggle.com/datasets/youcefattallah97/minerals-identification-classification/data
+- https://www.kaggle.com/datasets/pranav941/hydroponics-feed
+- https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset
